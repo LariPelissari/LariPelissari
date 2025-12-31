@@ -30,15 +30,6 @@ Sou uma profissional em transição de carreira para a área de Tecnologia, unin
 
 ---
 
-## 📈 Estatísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LariPelissari&show_icons=true&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariPelissari&layout=compact&theme=dark" alt="Top languages" />
-</p>
-
----
-
 <div align="center">
   <samp style="font-size:16px;">
     <b>Vamos nos conectar?</b>
