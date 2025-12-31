@@ -22,23 +22,19 @@ Sou uma profissional em transição de carreira para a área de Tecnologia, unin
 ---
 
 ## 🚀 Projetos Recentes
-
-<p align="center">
-  <a href="https://github.com/LariPelissari/chatbot-estudos-rag">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LariPelissari&repo=chatbot-estudos-rag&theme=dark" alt="Chatbot RAG" />
-  </a>
-  <a href="https://github.com/LariPelissari/sistema-precificacao-imobiliaria-ia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LariPelissari&repo=sistema-precificacao-imobiliaria-ia&theme=dark" alt="Sistema Precificação" />
-  </a>
-</p>
+[Chatbot de Estudos com RAG](https://github.com/LariPelissari/chatbot-estudos-rag)  
+  Chatbot educacional com LLMs e RAG. • Tecnologias: Python, LLMs, RAG.
+  
+[Sistema de Precificação Imobiliária com IA](https://github.com/LariPelissari/sistema-precificacao-imobiliaria-ia)  
+  Análise e precificação de imóveis com Machine Learning. • Tecnologias: Python, ML, Data Analysis.
 
 ---
 
 ## 📈 Estatísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LariPelissari&show_icons=true&theme=dark" alt="Stats de Lari" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariPelissari&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LariPelissari&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariPelissari&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
 ---
