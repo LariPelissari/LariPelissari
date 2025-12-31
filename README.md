@@ -15,8 +15,9 @@ Sou uma profissional em transição de carreira para a área de Tecnologia, unin
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 #### 📌 Ferramentas & Conceitos
-![Git](https://img.shields.io/badge/-Git-Version-Control-F05033?style=flat&logo=git&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=python&logoColor=white)
+![IA](https://img.shields.io/badge/Intelig%C3%AAncia%20Artificial-6A5ACD?style=flat)
 
 ---
 
@@ -24,21 +25,11 @@ Sou uma profissional em transição de carreira para a área de Tecnologia, unin
 
 <p align="center">
   <a href="https://github.com/LariPelissari/chatbot-estudos-rag">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LariPelissari&repo=chatbot-estudos-rag&theme=default" alt="Chatbot de Estudos com RAG" width="200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LariPelissari&repo=chatbot-estudos-rag&theme=dark" />
   </a>
   <a href="https://github.com/LariPelissari/sistema-precificacao-imobiliaria-ia">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LariPelissari&repo=sistema-precificacao-imobiliaria-ia&theme=default" alt="Sistema de Precificação Imobiliária com IA" width="200" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LariPelissari&repo=sistema-precificacao-imobiliaria-ia&theme=dark" />
   </a>
-</p>
-
-<p align="center">
-  <strong><a href="https://github.com/LariPelissari/chatbot-estudos-rag">Chatbot de Estudos com RAG</a></strong><br>
-  Chatbot educacional com LLMs e RAG para respostas contextualizadas e apoio ao estudo.
-</p>
-
-<p align="center">
-  <strong><a href="https://github.com/LariPelissari/sistema-precificacao-imobiliaria-ia">Sistema de Precificação Imobiliária com IA</a></strong><br>
-  Análise e precificação de imóveis usando Machine Learning para suporte à decisão.
 </p>
 
 ---
@@ -46,8 +37,8 @@ Sou uma profissional em transição de carreira para a área de Tecnologia, unin
 ## 📈 Estatísticas de GitHub
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LariPelissari&show_icons=true&theme=default" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariPelissari&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LariPelissari&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariPelissari&layout=compact&theme=dark" />
 </p>
 
 ---
@@ -67,13 +58,6 @@ Sou uma profissional em transição de carreira para a área de Tecnologia, unin
   
 </div>
 
----
-
-<div>
-   <a href="https://github.com/LariPelissari">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LariPelissari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LariPelissari&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
     
 
 
