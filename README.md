@@ -24,10 +24,43 @@ Sou uma profissional em transição de carreira para a área de Tecnologia, unin
 ## 🚀 Projetos Recentes
 [Chatbot de Estudos com RAG](https://github.com/LariPelissari/chatbot-estudos-rag)  
   Chatbot educacional com LLMs e RAG. • Tecnologias: Python, LLMs, RAG.
+
+## 🚀 Demonstração
+
+Para visualizar a aplicação em execução, acesse os links abaixo:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-estudos-rag.streamlit.app/)
+> **Nota:** Se a aplicação estiver em modo de hibernação ("Zzzz"), basta clicar em **"Yes, get this app back up!"** e aguardar alguns segundos.
+
+---
+
+## 💻 Sobre o Projeto
+Este projeto foi desenvolvido como parte do meu portfólio de **Inteligência Artificial**, focando em:
+* **RAG (Retrieval-Augmented Generation)** para consultas em documentos.
+* **Interface interativa** com Streamlit.
+* **Integração de APIs** de modelos de linguagem.
+
+---
   
 [Sistema de Precificação Imobiliária com IA](https://github.com/LariPelissari/sistema-precificacao-imobiliaria-ia)  
   Análise e precificação de imóveis com Machine Learning. • Tecnologias: Python, ML, Data Analysis.
 
+## 🚀 Demonstração
+
+Para testar o modelo em tempo real, acesse o link abaixo:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sistema-precificacao-imobiliaria.streamlit.app/)
+> **Nota:** Se a aplicação estiver em modo de hibernação ("Zzzz"), basta clicar em **"Yes, get this app back up!"** e aguardar alguns segundos.
+
+---
+
+## 💻 Sobre o Projeto
+
+O sistema foi construído focando em precisão e usabilidade, aplicando conceitos avançados de ciência de dados:
+
+* **Análise de Dados:** Limpeza e tratamento de bases imobiliárias com Pandas.
+* **Modelagem:** Implementação de regressão com Scikit-learn.
+* **Deploy Moderno:** Interface interativa e amigável desenvolvida em Streamlit.
 ---
 
 <div align="center">
@@ -41,7 +74,7 @@ Sou uma profissional em transição de carreira para a área de Tecnologia, unin
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-5785B6?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/laripelissari/)
   [![GitHub](https://img.shields.io/badge/GitHub-5785B6?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/LariPelissari)
   [![Steam](https://img.shields.io/badge/Steam-5785B6?style=for-the-badge&logo=steam&logoColor=fff)](https://steamcommunity.com/id/laripelissari/)
-  [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laripelissari/)
+  [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/laripelissari/)
   
 </div>
 
