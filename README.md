@@ -27,15 +27,6 @@ Acesse meus repositórios mais recentes: [![GitHub](https://img.shields.io/badge
 
 ---
 
-## 💻 Sobre o Projeto
-
-O sistema foi construído focando em precisão e usabilidade, aplicando conceitos avançados de ciência de dados:
-
-* **Análise de Dados:** Limpeza e tratamento de bases imobiliárias com Pandas.
-* **Modelagem:** Implementação de regressão com Scikit-learn.
-* **Deploy Moderno:** Interface interativa e amigável desenvolvida em Streamlit.
----
-
 <div align="center">
   <samp style="font-size:16px;">
     <b>Vamos nos conectar?</b>
