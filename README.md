@@ -21,9 +21,12 @@ Sou uma profissional em transição de carreira para a área de Tecnologia, unin
 
 ---
 
-## 🚀 Projetos Recentes
+### 🚀 Projetos Recentes
 
-Acesse meus repositórios mais recentes: [![GitHub](https://img.shields.io/badge/GitHub-5785B6?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/LariPelissari?tab=repositories)
+**[FreeMind VTT](https://freemindvtt.com/)**
+Uma plataforma de Virtual Tabletop (VTT) customizada, desenvolvida para dar suporte a um sistema próprio de RPG de mesa de fantasia sombria.
+* **Destaques:** Movimentação de tokens e sincronização de dados em tempo real.
+* **Tecnologias:** Vite, Lovable, Supabase, PostgreSQL e SQL.
 
 ---
 
