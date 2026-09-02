@@ -3,10 +3,10 @@
 </div>
 
 ## 🚀 Sobre mim
-🖖 Missão: Unir 13 anos de experiência em gestão de processos com desenvolvimento de software para otimizar negócios.
-💻 Stack & Foco: Python, SQL, IA (LLMs/RAG), Cloud e desenvolvimento FullStack.
-🎓 Educação: Graduada em ADS | Pós em IA & Machine Learning | Pós-graduanda em Engenharia de Dados.
-🚀 Além do código: Articulista no Fã Clube de Star Trek, entusiasta de astronomia, orgulhosa dona de um Nintendinho e leitora de fantasia e hard sci-fi.
+🖖 Missão: Unir 13 anos de experiência em gestão de processos com desenvolvimento de software para otimizar negócios.<br>
+💻 Stack & Foco: Python, SQL, IA (LLMs/RAG), Cloud e desenvolvimento FullStack.<br>
+🎓 Educação: Graduada em ADS | Pós em IA & Machine Learning | Pós-graduanda em Engenharia de Dados.<br>
+🚀 Além do código: Articulista no Fã Clube de Star Trek, entusiasta de astronomia, orgulhosa dona de um Nintendinho e leitora de fantasia e hard sci-fi.<br>
 ---
 
 **📌 Linguagens e Frameworks**
