@@ -44,6 +44,14 @@
 * **Descrição:** Sistema interativo que utiliza processamento de linguagem natural para interpretar a intenção do leitor e recomendar obras do acervo, exibindo capas via Open Library API e links de busca na Amazon.
 * **Tech Stack:** `Python` | `Flask` | `Google Gemini API` | `Gunicorn` | `HTML5/CSS3` | `Render`
 * **Demo:** 🌐 🌐 <a href="https://livraria-do-totoro.onrender.com/" target="_blank">Acesse o projeto online</a>
+
+
+** 🍣 [Totoro Sushi](https://github.com/LariPelissari/totoro-sushi-landing)
+> **Landing Page Premium para Restaurante Japonês (Omakase)**
+* **Descrição:** Landing page profissional e responsiva com foco em alta conversão e sofisticação visual. O design incorpora efeitos parallax sutis, seções de prova social e integração direta com WhatsApp para facilitar reservas, guiando o visitante através de uma experiência imersiva baseada no Omotenashi.
+* **Tech Stack:** `React` | `TypeScript` | `Vite` | `Tailwind CSS` | `Lovable`
+* **Demo:** 🌐 <a href="https://totoro-sushi-landing.lovable.app/" target="_blank">Acesse o projeto online</a>
+
 ---
 
 <div align="center">
