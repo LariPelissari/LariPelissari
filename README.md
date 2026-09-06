@@ -32,7 +32,7 @@
 
 ### 🚀 Projetos Recentes
 
-** 🎲 [FreeMind VTT](https://github.com/LariPelissari/freemind-vtt)
+** 🎲 [FreeMind VTT](https://github.com/LariPelissari/freemind-vtt-system)
 > **Plataforma de Virtual Tabletop (VTT) para RPG de Fantasia Sombria**
 * **Descrição:** Plataforma web customizada e desenvolvida sob medida para dar suporte às mecânicas de um sistema próprio de RPG de mesa. Conta com sincronização de estado em tempo real e interface interativa para gestão de sessões.
 * **Tech Stack:** `Vite` | `React` | `Supabase` | `PostgreSQL` | `SQL` | `Lovable`
@@ -43,7 +43,7 @@
 > **Aplicação Web de Recomendação de Livros com IA Generativa**
 * **Descrição:** Sistema interativo que utiliza processamento de linguagem natural para interpretar a intenção do leitor e recomendar obras do acervo, exibindo capas via Open Library API e links de busca na Amazon.
 * **Tech Stack:** `Python` | `Flask` | `Google Gemini API` | `Gunicorn` | `HTML5/CSS3` | `Render`
-* **Demo:** 🌐 🌐 <a href="https://livraria-do-totoro.onrender.com/" target="_blank">Acesse o projeto online</a>
+* **Demo:** 🌐 <a href="https://livraria-do-totoro.onrender.com/" target="_blank">Acesse o projeto online</a>
 
 
 ** 🍣 [Totoro Sushi](https://github.com/LariPelissari/totoro-sushi-landing)
